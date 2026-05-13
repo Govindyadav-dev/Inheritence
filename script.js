@@ -14,6 +14,10 @@ class Animal{
         console.log(`This ${this.name} is eating...`);      
     }
 
+    dead(){
+        console.log(`This ${this.name} is dead...`);      
+    }
+
     sleep(){
         console.log(`this ${this.name} is sleeping...`);
     }
