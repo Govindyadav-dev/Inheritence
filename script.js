@@ -54,6 +54,9 @@ const fish= new Fish();
 rabbit.sleep()
 rabbit.eat()
 rabbit.dead()
+rabbit.dead()
+rabbit.dead()
+rabbit.dead()
 //rabbit.swimming() // error aega kyuki ye to khud hi ek child hai and swim rabbit ka method nai h 
 //agar upr linee error degi to usko htao wnna niche ka code rn nai karega
 fish.swim()
