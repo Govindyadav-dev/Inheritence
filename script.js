@@ -42,6 +42,10 @@ class Fish extends Animal{
     swim(){
         console.log(`this ${this.name} is swimming`);
         
+    };
+    maut(){
+        console.log(`this ${this.name} is swimming`);
+        
     }
 }
 
